@@ -20,12 +20,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCEJrZ3vYo6anIJsVha7XvlYMLU290ULvw",
-  authDomain: "chat-app-d3995.firebaseapp.com",
-  projectId: "chat-app-d3995",
-  storageBucket: "chat-app-d3995.appspot.com",
-  messagingSenderId: "803330157936",
-  appId: "1:803330157936:web:0f523aade2e7c5b2e9f3b5"
+  apiKey: "*****",
+  authDomain: "******",
+  projectId: "******",
+  storageBucket: "******",
+  messagingSenderId: "*******",
+  appId: "******"
 };
 
 const app = initializeApp(firebaseConfig);
